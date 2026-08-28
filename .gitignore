@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.flutter-plugins
+.dart_tool/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+build/
+dist/
+*.apk
+*.ipa
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
